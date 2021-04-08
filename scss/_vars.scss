@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  font-size: 100%;
+  box-sizing: border-box;
+  color: black;
+}
+body {
+  font-family: "Montserrat-Medium", sans-serif;
+}
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+}
